@@ -1,0 +1,5 @@
+[{release,"Erlang/OTP","17","6.0",
+          [{kernel,"3.0","%ERL_ROOT%/lib/kernel-3.0"},
+           {stdlib,"2.0","%ERL_ROOT%/lib/stdlib-2.0"},
+           {sasl,"2.4","%ERL_ROOT%/lib/sasl-2.4"}],
+          permanent}].
